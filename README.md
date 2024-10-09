@@ -11,3 +11,5 @@
 - Access to ArgoCD ui: https://localhost:8080
 - Can also install ArgoCD CLI commands: **brew install argocd**
 - Can be used like this: **argocd app list** 
+
+TODO - Create multi-node config - understand what it means!
